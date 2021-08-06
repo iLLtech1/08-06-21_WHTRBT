@@ -1,0 +1,22 @@
+ body {
+  font-family: system-ui;
+  background: rgb(14, 231, 220);
+  color: white;
+  text-align: center;
+}
+.materialboxed {
+  border: 2px solid rgb(225, 0, 255);
+  border-radius: 100%;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  flex-flow: row;
+}
+.background {
+  border: 2px solid rgb(225, 0, 255);
+  margin: 385px;
+}
+.carousel-item {
+  border: 2px solid rgb(225, 0, 255);
+
+}
+
