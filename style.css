@@ -1,3 +1,19 @@
+ #myDiv {
+      width: 1000px;
+      height: 1000px;
+      background-color: rgb(0, 255, 55);
+    }
+
+    @media only screen and (max-width: 576px) {
+
+      #myDiv {
+        width: 100%;
+        background-color: red;
+      }
+
+    }
+ 
+ 
  body {
   font-family: system-ui;
   background: rgb(14, 231, 220);
